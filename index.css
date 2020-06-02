@@ -91,7 +91,7 @@ label{
 
 
 
-@media  only screen and (max-width: 550px){
+@media  only screen and (max-width: 768px){
 	label{
 		display: block;
 		cursor: pointer;
